@@ -1,5 +1,4 @@
 Instructions to run:
 
-'cmake -B build'
-
-'./main > image.ppm'
+$ cmake -B build
+$ ./main > image.ppm
