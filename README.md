@@ -1,4 +1,1 @@
-Instructions to run:
-
-$ cmake -B build
-$ ./main > image.ppm
+Basic implementation of ray tracing algorithms in C++
